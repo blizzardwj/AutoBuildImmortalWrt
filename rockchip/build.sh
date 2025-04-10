@@ -100,7 +100,7 @@ PACKAGES="$PACKAGES luci-app-ttyd"
 PACKAGES="$PACKAGES luci-app-passwall"
 PACKAGES="$PACKAGES luci-app-homeproxy"     
 PACKAGES="$PACKAGES luci-app-dockerman"     
-PACKAGES="$PACKAGES luci-samba4"
+PACKAGES="$PACKAGES luci-app-samba4"
 
 # --- LuCI Internationalization (zh-cn / Chinese) ---
 PACKAGES="$PACKAGES luci-i18n-diskman-zh-cn"
